@@ -1,0 +1,26 @@
+.form{
+    margin: 40px;
+    padding: 40px;
+    width: 200px;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;}
+
+.formLabel{
+    display: block;
+    margin-top: 20px;
+}
+
+.formLabelHeader{
+    margin-right: 10px;
+}
+
+.formInput{
+    border: 1px solid #e3dc05;
+    padding: 5px;
+}
+
+.submitForm{
+    margin-top: 20px;
+    border: none;
+    background-color: #9ca7fb;
+    color: whitesmoke;
+}
